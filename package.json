@@ -1,0 +1,23 @@
+{
+  "name": "test-tcp-backlog",
+  "version": "1.0.0",
+  "description": "test tcp backlog limit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sophister/test-tcp-backlog.git"
+  },
+  "keywords": [
+    "tcp",
+    "backlog"
+  ],
+  "author": "Jess",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sophister/test-tcp-backlog/issues"
+  },
+  "homepage": "https://github.com/sophister/test-tcp-backlog#readme"
+}
